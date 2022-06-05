@@ -1,0 +1,1 @@
+python main.py -c main.csv -m January -y 2022 -o out
